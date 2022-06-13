@@ -11,7 +11,7 @@ namespace AutomobileLibrary.BussinessObject
 
         public decimal Price { get; set; }
 
-        public int ReleaseYear { get; set; }
+        public int ReleasedYear { get; set; }
 
     }
 }

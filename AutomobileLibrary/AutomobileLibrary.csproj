@@ -14,4 +14,7 @@
     <Folder Include="DataAccess\" />
     <Folder Include="Repository\" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
 </Project>
